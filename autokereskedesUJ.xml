@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<autokereskedes>
+    <auto>
+        <gyartmany>Toyota</gyartmany>
+        <tipus>Prius</tipus>
+        <gyartasiev>2014</gyartasiev>
+        <ar>4500000</ar>
+    </auto>
+    <auto>
+        <gyartmany>Nissan</gyartmany>
+        <tipus>Micra</tipus>
+        <gyartasiev>2008</gyartasiev>
+        <ar>850000</ar>
+    </auto>
+    <auto>
+        <gyartmany>Volvo</gyartmany>
+        <tipus>S60</tipus>
+        <gyartasiev>2011</gyartasiev>
+        <ar>3700000</ar>
+    </auto>
+    <auto>
+        <gyartmany>Skoda</gyartmany>
+        <tipus>Fabia</tipus>
+        <gyartasiev>2003</gyartasiev>
+        <ar>950000</ar>
+    </auto>
+    <auto>
+        <gyartmany>Skoda</gyartmany>
+        <tipus>Fabia</tipus>
+        <gyartasiev>2003</gyartasiev>
+        <ar>950000</ar>
+    </auto>
+</autokereskedes>
